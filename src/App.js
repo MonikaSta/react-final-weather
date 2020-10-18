@@ -36,7 +36,7 @@ export default function App() {
               <span id="display-date">Monday, Oct 19</span>
             </div>
             <div className="col-6">
-              <span id="display-time">13:45</span>
+              <span id="display-time">13:43</span>
             </div>
           </div>
         </div>
